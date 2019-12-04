@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Automation.Excel.Pivot.Slicers</name>
+    </assembly>
+    <members>
+        <member name="T:Automation.Excel.Pivot.Slicers.SlicerFilters">
+            <summary>
+            The main slicer flitering class
+            Contains all methods for performing filtering on excel slicers
+            </summary>
+        </member>
+        <member name="F:Automation.Excel.Pivot.Slicers.SlicerFilters.xlApp">
+            <summary>
+            Instance of Excel
+            </summary>
+        </member>
+        <member name="F:Automation.Excel.Pivot.Slicers.SlicerFilters.xlWorkBook">
+            <summary>
+            Reference to existing Excel Workbook
+            </summary>
+        </member>
+        <member name="M:Automation.Excel.Pivot.Slicers.SlicerFilters.SetInstance(System.String)">
+            <summary>
+            Establishes instance of open excel application
+            </summary>
+            <param name="targetWorkbook">Target Excel workbook to establish instance on</param>
+            <exception cref="T:System.ArgumentException">Thrown when <paramref name="targetWorkbook"/> is null or empty</exception>
+            <exception cref="T:System.Exception">Thrown when <paramref name="targetWorkbook"/> does not exist in the Excel workbook collection</exception>
+        </member>
+        <member name="M:Automation.Excel.Pivot.Slicers.SlicerFilters.GetSlicerCacheNames">
+            <summary>
+            Provides list of slicer caches from target workbook
+            </summary>
+            <returns>Array of slicer cache names</returns>
+        </member>
+        <member name="M:Automation.Excel.Pivot.Slicers.SlicerFilters.ClearSlicerFilter(System.String)">
+            <summary>
+            Clears all filters on a given slicer cache
+            </summary>
+            <param name="slicerCache">name of the slicer cache to clear filters on</param>
+        </member>
+        <member name="M:Automation.Excel.Pivot.Slicers.SlicerFilters.SelectSlicerItems(System.String,System.String[])">
+            <summary>
+            Selects provided slicer items on slicer
+            </summary>
+            <param name="slicerCache">Cache object of the slicer</param>
+            <param name="slicerSelections">items to select on the slicer</param>
+        </member>
+    </members>
+</doc>

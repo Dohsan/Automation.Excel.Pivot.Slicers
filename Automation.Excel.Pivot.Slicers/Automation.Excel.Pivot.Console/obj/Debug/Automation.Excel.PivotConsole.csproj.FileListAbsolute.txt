@@ -1,0 +1,11 @@
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Console\bin\Debug\Automation.Excel.Pivot.Console.exe.config
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Console\bin\Debug\Automation.Excel.Pivot.Console.exe
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Console\bin\Debug\Automation.Excel.Pivot.Console.pdb
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Console\bin\Debug\Automation.Excel.Pivot.Slicers.dll
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Console\bin\Debug\Automation.Excel.Pivot.Slicers.pdb
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Console\bin\Debug\Automation.Excel.Pivot.Slicers.xml
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Console\obj\Debug\Automation.Excel.PivotConsole.csprojAssemblyReference.cache
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Console\obj\Debug\Automation.Excel.PivotConsole.csproj.CoreCompileInputs.cache
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Console\obj\Debug\Automation.Excel.PivotConsole.csproj.CopyComplete
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Console\obj\Debug\Automation.Excel.Pivot.Console.exe
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Console\obj\Debug\Automation.Excel.Pivot.Console.pdb

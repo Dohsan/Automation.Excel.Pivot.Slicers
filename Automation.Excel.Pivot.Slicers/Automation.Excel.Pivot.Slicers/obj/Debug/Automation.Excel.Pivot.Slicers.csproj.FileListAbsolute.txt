@@ -1,0 +1,7 @@
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Slicers\bin\Debug\Automation.Excel.Pivot.Slicers.xml
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Slicers\bin\Debug\Automation.Excel.Pivot.Slicers.dll
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Slicers\bin\Debug\Automation.Excel.Pivot.Slicers.pdb
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Slicers\obj\Debug\Automation.Excel.Pivot.Slicers.csprojAssemblyReference.cache
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Slicers\obj\Debug\Automation.Excel.Pivot.Slicers.csproj.CoreCompileInputs.cache
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Slicers\obj\Debug\Automation.Excel.Pivot.Slicers.dll
+C:\Users\a-hk90\source\repos\Automation.Excel.Pivot.Slicers\Automation.Excel.Pivot.Slicers\obj\Debug\Automation.Excel.Pivot.Slicers.pdb
